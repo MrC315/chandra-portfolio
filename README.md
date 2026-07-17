@@ -83,7 +83,7 @@ Microsoft Certified Associate (PL-300)
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/chandra-ch-55b185198
-- GitHub: https://github.com/MrC315/chandra-portfolio
+- GitHub: https://github.com/MrC315/chandra-chinnamsetti-portfolio
 - Email: Chandu31589@gmail.com
 
 ---
