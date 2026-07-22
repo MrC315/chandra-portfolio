@@ -1,11 +1,16 @@
-Healthcare Claims Analytics Dashboard
-Project Overview
+# Healthcare Claims Analytics Dashboard
+
+## Dashboard Link 
+
+https://app.powerbi.com/view?r=eyJrIjoiYjAzMTAzODgtZTUwNi00MjFmLWExY2ItNjliZTlhZDBkMmQ5IiwidCI6ImQwMmMzNDc0LTUxNGQtNDc1MS04MTYyLTQ2NDNlMzc5MTAxMiIsImMiOjN9
+
+## Project Overview
 
 This project demonstrates an end-to-end Healthcare Claims Analytics Dashboard built in Microsoft Power BI using a simulated healthcare claims dataset. The dashboard provides executive-level visibility into claims volume, financial performance, member utilization, and provider effectiveness through interactive reports and advanced DAX calculations.
 
 The solution is designed to showcase real-world healthcare analytics capabilities commonly used by payer organizations, insurance companies, and healthcare providers.
 
-Dashboard Pages
+# Dashboard Pages
 1. Executive Claims Overview
 
 Provides a high-level summary of claims activity and operational performance.
@@ -29,7 +34,7 @@ Monitors geographic claim distribution.
 Highlights claim approval, denial, and pending status trends.
 2. Financial & Cost Analysis
 
-Focused on healthcare financial performance and reimbursement analysis.
+# Focused on healthcare financial performance and reimbursement analysis.
 
 Key KPIs
 Total Claim Amount
@@ -49,7 +54,7 @@ Highlights diagnosis categories with higher payment rates.
 Uses heatmap analysis to identify cost concentration areas.
 3. Member & Provider Analytics
 
-Provides insight into member utilization and provider performance.
+# Provides insight into member utilization and provider performance.
 
 Key KPIs
 Total Members
@@ -70,13 +75,13 @@ Evaluates provider reimbursement performance.
 Supports provider network and utilization analysis.
 Data Model
 
-The solution utilizes a healthcare claims model consisting of:
+# The solution utilizes a healthcare claims model consisting of:
 
 Claims
 Members
 Providers
 
-Relationships were established to support:
+# Relationships were established to support:
 
 Member analytics
 Provider analytics
@@ -85,7 +90,7 @@ Diagnosis analysis
 Geographic reporting
 Key DAX Measures
 
-Examples include:
+# Examples include:
 
 Total Claims
 Total Claim Amount
@@ -109,7 +114,7 @@ Financial Analytics
 Provider Performance Reporting
 Healthcare Domain Analytics
 
-Author
+# Author
 
 Chandra Chinnamsetti
 Senior Data Engineer | BI & Analytics Developer
